@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sticky_label_font_size">24sp</dimen>
+    <dimen name="sticky_label_padding">24dp</dimen>
+    <dimen name="sticky_label_content_margin">60dp</dimen>
+</resources>
